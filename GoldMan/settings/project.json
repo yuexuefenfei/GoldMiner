@@ -13,18 +13,11 @@
     [
       false,
       false,
-      true,
       true
     ],
     [
       false,
       true,
-      false
-    ],
-    [
-      false,
-      true,
-      false,
       false
     ]
   ],
@@ -36,8 +29,7 @@
   "group-list": [
     "default",
     "claw",
-    "wall",
-    "gold"
+    "wall"
   ],
   "simulator-orientation": false,
   "simulator-resolution": {

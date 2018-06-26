@@ -37,14 +37,14 @@
     "default",
     "claw",
     "wall",
-    "gold"
+    "strone"
   ],
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
     "width": 960
   },
+  "start-scene": "b212d0a9-1034-4aae-939b-834e16125d66",
   "use-customize-simulator": false,
-  "use-project-simulator-setting": false,
-  "start-scene": "current"
+  "use-project-simulator-setting": false
 }
